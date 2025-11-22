@@ -9,14 +9,14 @@ What it does:
 
 Gives you a simple CLI to...
 
-Update DNF
+-Update DNF
 
-Enable minimize and maximize window buttons
+-Enable minimize and maximize window buttons
 
-Fully enable Flatpak
+-Fully enable Flatpak
 
-Enable RPM Fusion
+-Enable RPM Fusion
 
-Install multimedia codecs
+-Install multimedia codecs
 
-Reboot when youre done
+-Reboot when youre done
